@@ -49,7 +49,7 @@ def plot_confidence_intervals(sample_means, confidence_intervals, population_mea
 
 # Streamlit app
 st.title('Confidence Interval Simulator')
-st.markdown("By: [Alexis Vera](mailto:alexisv@sanjuanbautista.edu)")
+st.markdown("By: [Alexis Vera](mailto:alexisvera@gmail.com)")
 
 
 # Display instructions and explanations
